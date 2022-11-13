@@ -25,6 +25,17 @@ html, body {
 }
 
 .personal-story {
+    display: flex;
+    flex-wrap: nowrap;
+
     font-size: 23px;
     padding: 1em;
+}
+
+.personal-story img {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    padding-left: 5em;
+    padding-right: 5em;
 }
