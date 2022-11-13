@@ -4,7 +4,7 @@ html, body {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.219), rgba(0, 0, 0, 0.658)), url("../images/hero-image-code.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.288), rgb(0, 0, 0)), url("../images/hero-image-code.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -22,4 +22,9 @@ html, body {
 
     position: relative;
     top: 50%;
+}
+
+.personal-story {
+    font-size: 23px;
+    padding: 1em;
 }
