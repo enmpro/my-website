@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.219), rgba(0, 0, 0, 0.658)), url("../images/hero-image-code.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    height: 800px;
+}
+
+.hero-image h1 {
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+
+    margin: 0;
+
+    position: relative;
+    top: 50%;
+}
