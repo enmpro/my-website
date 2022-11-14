@@ -44,3 +44,13 @@ html, body {
     padding-left: 5em;
     padding-right: 5em;
 }
+
+.works {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.project-one img {
+    width: 400px;
+    height: 400px;
+}
