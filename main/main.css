@@ -48,6 +48,7 @@ html, body {
 .works {
     display: flex;
     flex-wrap: nowrap;
+    justify-content: space-evenly;
 }
 
 .project-one img {
