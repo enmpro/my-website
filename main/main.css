@@ -56,7 +56,13 @@ html, body {
     justify-content: space-evenly;
 }
 
-.project-one img {
+.project img {
     width: 400px;
     height: 400px;
+}
+
+.project {
+    width: 450px;
+
+    text-align: center;
 }
