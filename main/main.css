@@ -37,6 +37,11 @@ html, body {
     padding: 1em;
 }
 
+.about-me {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .personal-story img {
     width: 250px;
     height: 250px;
